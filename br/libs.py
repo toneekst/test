@@ -11,6 +11,3 @@ print ("hjkkjkjhkjhkj")
 
 print ("hjkkjkjhkjhkj")
 print ("hjkkjkjhkjhkj")
-print ("hjkkjkjhkjhkj")
-print ("hjkkjkjhkjhkj")
-print ("hjkkjkjhkjhkj")
