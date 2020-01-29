@@ -6,5 +6,3 @@ print (cv2.__version__)
 
 
 
-
-print ("hjkkjkjhkjhkj")
